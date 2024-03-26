@@ -1,0 +1,18 @@
+body {
+    background-color: darkgray;
+}
+
+h1 {
+    text-align: center;
+  }
+  .container {
+    width: 400px; /* Defina a largura desejada para a div */
+    padding: 20px; /* Adiciona espaço interno à div */
+    margin: 0 auto; /* Centraliza a div na página */
+    border: 1px solid #ccc; /* Adiciona uma borda para visualização */
+}
+.container input {
+    display: block; /* Faz com que os inputs sejam exibidos em blocos */
+    width: 100%; /* Define a largura dos inputs para preencher a div */
+    margin-bottom: 10px; /* Adiciona margem inferior para criar espaço entre os inputs */
+}
